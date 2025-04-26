@@ -40,7 +40,7 @@ __asm__(
 );
 
 
-printf("sum of %d and %d: %d\n",num1,num2,sum);
+printf("sum of %d and %d is: %d\n",num1,num2,sum);
 return 0;
 
 }
